@@ -1,0 +1,53 @@
+[
+
+    {
+        "question": "RAM stands for?",
+        "options": ["Random Accessable Memory", "Random Access Memory", "Randomly Access Memory", "Randomly Accessable Memories"],
+        "answer": 1
+    },
+    {
+        "question": "Second Generation computers were developed during ?",
+        "options": ["1947 to 1948", "2000 to 2012", "1956 to 1965", "1993 to 2002"],
+        "answer": 2
+    },
+    {
+        "question": "What command is used to remove files in  Linux?",
+        "options": ["delete", "rm", "dm", "None of the above"],
+        "answer": 1
+    },
+    {
+        "question": "Where are the contents of your computer's hard drive indexed?",
+        "options": ["None of the above", "Yahoo!", "Google", "MAC"],
+        "answer": 0
+    },
+    {
+        "question": "Main circuit board in a computer is?",
+        "options": ["Decoder", "Transistor", "Select", "Mother Board"],
+        "answer": 3
+    },
+    {
+        "question": "Who developed Python Programming Language?",
+        "options": ["Wick van Rossum","Rasmus Lerdorf","Guido van Rossum","Niene Stom"],
+        "answer": 2
+    },
+    {
+        "question": "What is a correct syntax to output \"Hello World\" in Python?",
+        "options": ["Print(\"hello world\");","Print(\"hello world\")","Printer(\"hello world\");","Printing(\"hello world\");"],
+        "answer": 1
+    },
+    {
+        "question": "Which keyword is used for function in Python language?",
+        "options": ["Function","Define","Fun","Def"],
+        "answer": 3
+    },
+    {
+        "question": "What arithmetic operators cannot be used with strings in Python?",
+        "options": ["-","+","*","All the above"],
+        "answer": 0
+    },
+    {
+        "question": "Which of the following is the correct extension of the Python file?",
+        "options": [".python",".pl",".p",".py"],
+        "answer": 3
+    }
+]
